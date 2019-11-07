@@ -11,4 +11,4 @@ I added the fade function so density could return to 0 (same in Daniel's video) 
 
 Using PIXELS instead or rect() for rendering the density has a better result imo (See mslijkhuis's sketch).
 
-[Live demo](https://janh2978.herokuapp.com/fluid). Clic inside the square
+[Live demo](https://janh2978.herokuapp.com/fluid). Click inside the square.
